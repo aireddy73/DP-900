@@ -17,7 +17,7 @@ After completing this module, students will be able to:
 <h5> Identify and describe core data concepts such as relational, non-relational, big data, and analytics </h5> 
 <h5> Explain how this technology is implemented with Azure </h5> 
   
-<h1>Module 2: Explore relational data in Azure </h2>
+<h2>Module 2: Explore relational data in Azure </h2>
 Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Microsoft Azure. Students will explore relational data offerings, provisioning and deploying relational databases, and querying relational data through cloud data solutions with Azure.
 
 Lessons
