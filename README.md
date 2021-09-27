@@ -2,7 +2,7 @@
 Microsoft Azure Data Fundamentals (DP-900)
 
 Course outline
-<h2>Module 1: Explore core data concepts ]</h2>
+<h2>Module 1: Explore core data concepts </h2>
 Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Microsoft Azure. Students will identify and describe core data concepts such as relational, non-relational, big data, and analytics, and explore how this technology is implemented with Azure. Students will explore the roles, tasks, and responsibilities in the world of data.
 
 Lessons 
