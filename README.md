@@ -23,9 +23,10 @@ After completing this module, students will be able to:
 Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Microsoft Azure. Students will explore relational data offerings, provisioning and deploying relational databases, and querying relational data through cloud data solutions with Azure.
 
 Lessons
-<h3>Explore relational data services in Azure </h3>
-<h3> Explore provisioning and deploying relational database services in Azure </h3>
-<h3> Query relational data in Azure </h3>
+- [Explore relational data services in Azure ] (https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
+- [Explore provisioning and deploying relational database services in Azure] (https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/)
+- [Query relational data in Azure ](https://docs.microsoft.com/en-us/learn/modules/query-relational-data/)
+
 After completing this module, students will be able to:
 
 <h5> Describe relational data services on Azure </h5>
@@ -36,9 +37,10 @@ After completing this module, students will be able to:
 Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Azure. Students will explore non-relational data services, provisioning and deploying non-relational databases, and non-relational data stores with Microsoft Azure.
 
 Lessons
-<h3> Explore non-relational data services in Azure </h3>
-<h3> Explore provisioning and deploying non-relational data services on Azure </h3>
-<h3> Manage non-relational data stores in Azure </h3>
+- [Explore non-relational data services in Azure](https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/)
+- [Explore provisioning and deploying non-relational data services on Azure](https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/)
+- [Manage non-relational data stores in Azure](https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/)
+
 After completing this module, students will be able to:
 
 <h5> Describe non-relational data services on Azure </h5>
@@ -48,10 +50,10 @@ After completing this module, students will be able to:
 <h5> Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Azure. Students will explore the processing options available for building data analytics solutions in Azure. Students will explore Azure Synapse Analytics, Azure Databricks, and Azure HDInsight. Students will learn what Power BI is, including its building blocks and how they work together </h5>.
 
 Lessons
-<h3> Examine components of a modern data warehouse </h3> (https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/)
-<h3> Explore data ingestion in Azure </h3>
-<h3> Explore data storage and processing in Azure </h3>
-<h3> Get started building with Power BI </h3>
+- [Examine components of a modern data warehouse ] (https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/)
+- [Explore data ingestion in Azure ] (https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/)
+- [Explore data storage and processing in Azure] (https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/)
+- [Get started building with Power BI](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/)
 After completing this module, students will be able to:
 
 <h5> Describe processing options available for building data analytics solutions in Azure </h5>
