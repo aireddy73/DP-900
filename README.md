@@ -2,15 +2,17 @@
 Microsoft Azure Data Fundamentals (DP-900)
 
 Course outline
-<h2> Module 1: Explore core data concepts </h2>
+<h2>Module 1: Explore core data concepts ]</h2>
 Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Microsoft Azure. Students will identify and describe core data concepts such as relational, non-relational, big data, and analytics, and explore how this technology is implemented with Azure. Students will explore the roles, tasks, and responsibilities in the world of data.
 
 Lessons 
-<h3> Explore core data concepts </h3>
-<h3> Explore roles and responsiblities in the world of data <h3>
-<h3> Describe concepts of relational data <h3>
-<h3> Explore concepts of non-relational data <h3>
-<h3> Explore concepts of data analytics </h3>
+
+- [Explore core data concepts ](https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/)
+- [Explore roles and responsibilities in the world of data](https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/)
+- [Describe concepts of relational data](https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/)
+- [Explore concepts of non-relational data ](https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/)
+- [Explore concepts of data analytics ](https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/)
+
 After completing this module, students will be able to:
 
 <h5> Show foundational knowledge of cloud data services within Azure </h5> 
@@ -46,7 +48,7 @@ After completing this module, students will be able to:
 <h5> Students will learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Azure. Students will explore the processing options available for building data analytics solutions in Azure. Students will explore Azure Synapse Analytics, Azure Databricks, and Azure HDInsight. Students will learn what Power BI is, including its building blocks and how they work together </h5>.
 
 Lessons
-<h3> Examine components of a modern data warehouse </h3>
+<h3> Examine components of a modern data warehouse </h3> (https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/)
 <h3> Explore data ingestion in Azure </h3>
 <h3> Explore data storage and processing in Azure </h3>
 <h3> Get started building with Power BI </h3>
