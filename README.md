@@ -54,6 +54,7 @@ Lessons
 - [Explore data ingestion in Azure ](https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/)
 - [Explore data storage and processing in Azure](https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/)
 - [Get started building with Power BI](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/)
+
 After completing this module, students will be able to:
 
 <h5> Describe processing options available for building data analytics solutions in Azure </h5>
